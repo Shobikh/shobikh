@@ -6,9 +6,18 @@
 <!-- Sub-heading -->
 <h3>Informatics Engineering Student at University of Darussalam Gontor</h3>
 
+<!-- Profile views -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Shobikh&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<a href="https://github.com/juhenfw">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Shobikh&cc=1A1B26&tc=C0CAF5&ic=7AA2F7&bc=414868">
+</a>
+
+</div>
+
+---
 
 <div align="center">
 
