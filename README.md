@@ -21,14 +21,12 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shobikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shobikh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shobikh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shobikh&theme=tokyonight" alt="Repos per Language" />
 
 </div>
